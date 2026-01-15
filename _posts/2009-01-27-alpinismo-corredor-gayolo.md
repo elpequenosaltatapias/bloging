@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Corredor Gayolo. Circo de Rioseta. Candanchú"
 date: 2009-01-27
 categories: 
