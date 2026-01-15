@@ -1,4 +1,4 @@
 ---
 layout: home
-title: El pequeño saltatapias
+title: Elpequeñosaltatapias
 ---
