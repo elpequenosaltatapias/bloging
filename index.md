@@ -1,4 +1,8 @@
 ---
 layout: home
-title: Elpequeñosaltatapias
+title: Inicio
 ---
+
+Bienvenido a **El pequeño saltatapias**.
+
+Un blog sobre montaña, escalada y aventuras.
