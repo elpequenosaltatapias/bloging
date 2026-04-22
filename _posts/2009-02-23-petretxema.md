@@ -1,17 +1,64 @@
 ---
+layout: post
 title: "Petretxema"
 date: 2009-02-23
-categories: 
-  - "sin-categoria"
+categories:
+  - esqui-de-montaña
+tags:
+  - petretxema
+  - linza
+  - pirineo
+excerpt: "Salida tranquila al Petretxema desde Linza, con buena nieve, calma y una bajada muy disfrutona."
 ---
 
-Aprovechamos, la pendeja y yo el viernes pasao para irnos al Pretetxema, ya que pensamos que los corredores todavía no estarían bien. Como siempre nos costó levantarnos más de lo habitual. La carretera de Hecho a Anso estaba cortada por obras, así que tuvimos que ir por la foz de Binies, carretera bonita pero mala. Con esto aun nos retrasamos más, cuando llegamos a Linza nos tomamos un tecito y un cafetito, con la calma. A las 11:30 empezabamos a foquear, con un nutrido grupo de esquiadores que tambien empezaban tarde.  
-  
-[![\"\"](\"http://3.bp.blogspot.com/_AVb8aLz5tWk/SaP2OMAdbMI/AAAAAAAAAUY/4L_ROUq53fw/s320/P2202145.JPG\")](\"http://3.bp.blogspot.com/_AVb8aLz5tWk/SaP2OMAdbMI/AAAAAAAAAUY/4L_ROUq53fw/s1600-h/P2202145.JPG\")  
-Pronto los perdimos de vista, no sabíamos por donde era el camino así que tirando de mapa fuimos subiendo. La nieve estaba bien y el paisaje precioso. China chana, llegamos por fin a la loma cimera, al poco de empezar a subirla, tuvimos que cambar los esquis por los crampones. Por fin cima (de subir en 45\\' nada Bosqui, 2:30) y para abajo.  
-  
-[![\"\"](\"http://1.bp.blogspot.com/_AVb8aLz5tWk/SaP2Ytp55sI/AAAAAAAAAUg/NVzVMhY7MMk/s320/P2202152.JPG\")](\"http://1.bp.blogspot.com/_AVb8aLz5tWk/SaP2Ytp55sI/AAAAAAAAAUg/NVzVMhY7MMk/s1600-h/P2202152.JPG\")  
-[![\"\"](\"http://2.bp.blogspot.com/_AVb8aLz5tWk/SaP2mbdbueI/AAAAAAAAAUo/RnGkO6MGuGk/s320/P2202156.JPG\")](\"http://2.bp.blogspot.com/_AVb8aLz5tWk/SaP2mbdbueI/AAAAAAAAAUo/RnGkO6MGuGk/s1600-h/P2202156.JPG\")  
-Cruzamos a la pala por un sitio donde había menos cornisa, y a disfrutar de palote que baja hacía la foya del ingeniero. Bajamos por este valle lleno de simas, bajando un poquito y haciendo largas medias laderas para evitar remar.  
-[![\"\"](\"http://2.bp.blogspot.com/_AVb8aLz5tWk/SaP2yiN6XxI/AAAAAAAAAUw/TXTXbytjWkA/s320/P2202165.JPG\")](\"http://2.bp.blogspot.com/_AVb8aLz5tWk/SaP2yiN6XxI/AAAAAAAAAUw/TXTXbytjWkA/s1600-h/P2202165.JPG\")[![\"\"](\"http://1.bp.blogspot.com/_AVb8aLz5tWk/SaP2-uH9dOI/AAAAAAAAAU4/gsOc8fbGR64/s320/P2202166.JPG\")](\"http://1.bp.blogspot.com/_AVb8aLz5tWk/SaP2-uH9dOI/AAAAAAAAAU4/gsOc8fbGR64/s1600-h/P2202166.JPG\")  
-Llegamos a las pistas de esquí de fondo una vueltecita de patinador y por fin la furgo, que bien. Cansados y contentos. Las fotos las pondre proximamente.
+> Día tranquilo, de esos sin prisa, pero que acaban saliendo redondos.
+
+![Petretxema]({{ site.baseurl }}/assets/img/P2202145.JPG)
+
+## El plan
+
+Aprovechando que era viernes y teníamos fiesta, decidimos acercarnos al Petretxema.  
+La idea inicial era hacer algo de corredor, pero viendo cómo estaban las condiciones, lo descartamos y optamos por una salida más tranquila con esquís.
+
+Como casi siempre, salimos tarde 😅  
+Y para rematar, la carretera de Hecho a Ansó estaba cortada por obras, así que nos tocó dar la vuelta por la Foz de Binies.
+
+## Desde Linza
+
+Al final empezamos a foquear desde Linza sobre las 11:30, con bastante calma.  
+Parada para té, café… sin prisas.
+
+El día acompañaba y la nieve estaba en buenas condiciones, así que la cosa pintaba bien desde el principio.
+
+## Subida hacia la cima
+
+Fuimos subiendo poco a poco, bastante tranquilos, sin apenas gente alrededor.  
+El ambiente era de esos días que invitan a disfrutar más que a apretar.
+
+Ya cerca de la parte final, dejamos los esquís y seguimos con crampones hasta la cima.
+
+<div class="gallery-2">
+  <img src="{{ site.baseurl }}/assets/img/P2202152.JPG" alt="Subida al Petretxema">
+  <img src="{{ site.baseurl }}/assets/img/P2202156.JPG" alt="Cima del Petretxema">
+</div>
+
+## La bajada
+
+Para el descenso, buscamos una zona donde la cornisa fuese más asequible y bajamos hacia la Foya del Ingeniero.
+
+La nieve estaba bastante agradecida y se dejó disfrutar.
+
+Después tocó lo típico: medias laderas largas para evitar remar demasiado… aunque algo siempre toca.
+
+<div class="gallery-2">
+  <img src="{{ site.baseurl }}/assets/img/P2202165.JPG" alt="Descenso en Petretxema">
+  <img src="{{ site.baseurl }}/assets/img/P2202166.JPG" alt="Regreso hacia Linza">
+</div>
+
+## Vuelta a Linza
+
+Terminamos saliendo a las pistas de esquí de fondo y desde ahí de vuelta a la furgo.
+
+Día tranquilo, sin grandes objetivos, pero de los que dejan buen sabor de boca.
+
+👉 De esos que, sin buscarlo mucho, salen perfectos.
