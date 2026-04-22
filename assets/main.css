@@ -3,57 +3,154 @@
 
 @import "minima";
 
-/* Layout general */
+/* ancho general */
 .wrapper {
   max-width: 980px;
 }
 
-/* Header */
+/* cabecera */
 .site-header {
   border-top: 6px solid #2f855a;
   border-bottom: 1px solid #e5e7eb;
+  background: #fff;
 }
 
 .site-title {
   font-weight: 800;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.02em;
+  font-size: 1.35rem;
 }
 
-/* Portada */
+/* navegación */
+.site-nav .page-link {
+  margin-left: 18px;
+  font-weight: 600;
+}
+
+/* portada */
+.home h1 {
+  font-size: 2.2rem;
+  line-height: 1.1;
+  margin-bottom: 0.5rem;
+}
+
+.home p {
+  font-size: 1.1rem;
+  color: #4b5563;
+}
+
+/* lista de posts */
 .post-list > li {
   list-style: none;
   margin-bottom: 1.5rem;
-  padding: 1rem 1.25rem;
+  padding: 1.25rem 1.4rem;
   border: 1px solid #e5e7eb;
-  border-radius: 14px;
-  box-shadow: 0 4px 14px rgba(0,0,0,.04);
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+  background: #fff;
 }
 
-/* Títulos */
-.post-title,
+.post-list-heading {
+  margin-top: 2.5rem;
+}
+
+.post-meta {
+  font-size: 0.95rem;
+  color: #6b7280;
+}
+
 .post-link {
-  font-weight: 700;
+  font-size: 1.35rem;
+  font-weight: 800;
   line-height: 1.2;
+  text-decoration: none;
 }
 
-/* Texto */
+/* posts */
+.post-header {
+  margin-bottom: 1.5rem;
+}
+
+.post-title {
+  font-size: 2.3rem;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+}
+
 .post-content {
   font-size: 1.08rem;
-  line-height: 1.8;
+  line-height: 1.85;
 }
 
-/* Imágenes */
+.post-content h2 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.5rem;
+}
+
+.post-content p {
+  margin-bottom: 1.1rem;
+}
+
 .post-content img {
   display: block;
   max-width: 100%;
-  margin: 1.25rem auto;
-  border-radius: 12px;
+  height: auto;
+  margin: 1.4rem auto;
+  border-radius: 14px;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.08);
 }
 
-/* Citas */
+.post-content a {
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+}
+
 blockquote {
-  padding-left: 1rem;
+  margin: 1.4rem 0;
+  padding: 0.9rem 1rem;
   border-left: 4px solid #2f855a;
-  color: #4b5563;
-  font-style: italic;
+  background: #f7faf7;
+  color: #374151;
+  border-radius: 8px;
+}
+
+/* galerías simples */
+.gallery-2,
+.gallery-3 {
+  display: grid;
+  gap: 14px;
+  margin: 1.5rem 0;
+}
+
+.gallery-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.gallery-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.gallery-2 img,
+.gallery-3 img {
+  margin: 0;
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+}
+
+@media (max-width: 700px) {
+  .post-title {
+    font-size: 1.8rem;
+  }
+
+  .gallery-2,
+  .gallery-3 {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-2 img,
+  .gallery-3 img {
+    height: auto;
+  }
 }
