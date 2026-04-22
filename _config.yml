@@ -1,6 +1,15 @@
 title: El pequeño saltatapias
+description: Blog de montaña, escalada y aventuras
 theme: minima
-description: Blog personal de montaña, escalada y aventuras
+
 url: https://elpequenosaltatapias.github.io
 baseurl: /bloging
+
 lang: es
+
+# Mostrar posts futuros si quieres
+future: false
+
+# Plugins soportados por GitHub Pages
+plugins:
+  - jekyll-feed
