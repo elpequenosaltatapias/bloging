@@ -20,14 +20,14 @@ coverImage: "P1152121.jpg"
 ## 52 CUMPLEAÑOS CON UNA AVENTURA INOLVIDABLE EN CANDANCHU
 
 > Celebrando el cumple de mi padre con un poco de alpinismo en Candanchú. Nos vamos a un corredor perfecto para iniciarse en el alpinismo invernal.
-
 ![Alpinismo invernal corredor Gayolo Candanchu](https://elpequenosaltatapias.github.io/bloging/assets/img/P1152126-768x1024.jpg)
 
 ![gayolo]({{ site.baseurl }}/assets/img/P1152126-768x1024.jpg)
 
 ![Petretxema](/bloging/assets/img/P1152126-768x1024.jpg)
 
-![Petretxema]({{ "assets/img/P1152126-768x1024.jpg" | relative_url }})
+![Petretxema]({{"assets/img/P1152126-768x1024.jpg" | relative_url }})
+
 # Corredor Gayolo. Circo de Rioseta. Candanchú
 
 Aunque el Corredor Gayolo de Candanchú nos dio más de una sorpresa, al final todo valió la pena. Y es que, ¿qué es un poco de nieve y unos zuecos en los crampones comparados con la emoción de hacer alpinismo de iniciación en el Valle del Aragón y el Rioseta?
