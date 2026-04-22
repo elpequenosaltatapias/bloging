@@ -3,12 +3,12 @@
 
 @import "minima";
 
-/* Ancho general */
+/* Layout general */
 .wrapper {
   max-width: 980px;
 }
 
-/* Cabecera */
+/* Header */
 .site-header {
   border-top: 6px solid #2f855a;
   border-bottom: 1px solid #e5e7eb;
@@ -20,13 +20,6 @@
 }
 
 /* Portada */
-.home h1,
-.post-list-heading {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-}
-
-/* Tarjetas para los posts de la portada */
 .post-list > li {
   list-style: none;
   margin-bottom: 1.5rem;
@@ -43,7 +36,7 @@
   line-height: 1.2;
 }
 
-/* Cuerpo de los posts */
+/* Texto */
 .post-content {
   font-size: 1.08rem;
   line-height: 1.8;
@@ -53,7 +46,6 @@
 .post-content img {
   display: block;
   max-width: 100%;
-  height: auto;
   margin: 1.25rem auto;
   border-radius: 12px;
 }
