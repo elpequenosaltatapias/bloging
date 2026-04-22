@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Título del post"
+date: 2026-04-22
+categories:
+  - alpinismo
+tags:
+  - pirineo
+  - nieve
+  - escalada
+coverImage: "nombre-foto.jpg"
+excerpt: "Una salida de montaña con buena nieve, vistas brutales y alguna sorpresa por el camino."
+---
+
+> Una frase corta de entrada para poner ambiente.
+
+![Foto principal]({{ site.baseurl }}/assets/img/nombre-foto.jpg)
+
+## El plan
+
+Texto corto y fácil de leer.
+
+## La actividad
+
+Más texto.
+
+## El descenso
+
+Más texto.
+
+## Lo mejor del día
+
+Cierre del post.
