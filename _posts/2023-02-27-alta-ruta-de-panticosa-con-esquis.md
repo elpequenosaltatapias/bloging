@@ -1,124 +1,47 @@
 ---
-layout: post
-title: Alta Ruta de Panticosa con esquís
-date: 2023-02-27
-categories:
-  - esqui-travesia
-tags:
-  - panticosa
-  - travesia
-  - pirineo
-coverImage: Alta-ruta-Panticosa.png
-excerpt: '"Dos días de travesía desde el Balneario de Panticosa hasta el refugio de Wallon, con buenas esquiadas y ambiente de alta ruta."'
+title: "Esqui de travesia en el Tablato. Balneario de Panticosa"
+date: 2023-02-24
+categories: 
+  - "esqui-travesia"
+coverImage: "Tablato.png"
 ---
 
+> Rutón si las condiciones y tú nivel te permiten bajar por la diagonal, sino es así tambien merece mucho la pena.
 
-> Dos días de ruta con esquís desde el Balneario de Panticosa. Buenas esquiadas y buenas sensaciones.
+![](images/2023-01-16_22-49-19_000-1024x768.jpeg)
 
-![Alta ruta Panticosa]({{ "/assets/img/maxresdefault-1024x576.webp" | relative_url }})
+## ESQUI DE MONTAÑA. PICO TABLATO 2.701 M
 
-## La idea
+Si quieres disfrutar de una buena ruta de esquí de montaña, tienes que ir al Tablato (2.701m). ¿Sabías que su ascensión es muy fácil y directa? Solo tienes que seguir el camino clásico de Brazatos y llegarás en un abrir y cerrar de ojos. Además, si te preocupa la seguridad tras una gran nevada, el valle de Brazato es uno de los más seguros en cuanto a aludes se refiere, ya que tiene pendientes suaves.
 
-Una versión de la alta ruta de Panticosa para hacer en dos días, durmiendo una noche en el refugio de Wallon.  
-Un recorrido muy agradecido que te deja con ganas de más… y de pensar en cosas más largas tipo Alpes.
+Una alternativa al mucho más frecuentado Garmo Negro.
 
----
+## Valle de Brazato
 
-## Día 1
+Para llegar, empiezas en el Balneario de Panticosa y sigues la GR-11 de Brazatos hasta la señal de aludes. Ahí te indicarán que gires a la izquierda y empieces una serie de lazadas. Pero si quieres ir al valle de Brazato, tendrás que girar a la derecha hacia el SE, subiendo con el bosque de Belio a tu derecha. Después de unas palas inclinadas (algo incómodas cuando hay poca nieve, ya que tienen abundantes bolos "gordos" hasta la cota 2.000m), el valle se suaviza y podrás cruzar el barranco de Brazato para pasar a su derecha. Tendras que dejar a tu izquierda la subida hacia los ibones de Brazato y Bacias. Sigue el fondo del valle (hacia el SE) y pronto tendrás a la vista el Tablato y su famosa diagonal.
 
-### Balneario de Panticosa
+## ¿Subir por la diagonal o por el collado?
 
-El punto de salida es el Balneario.  
-Si llegas un viernes por la noche, puedes dormir en el refugio de la Casa de Piedra.
+Dependiendo del estado de la nieve podrás subir por la diagonal directamente por el collado a la derecha del pico. La ventaja de subir por la diagonal es que verás como está para después bajarla con los esquís. En el video puedes ver la opción del collado. Cualquiera de las dos son bastante evidentes. Y en ambos casos puede ser necesario el uso de crampones en los tramos finales. 
 
-Empezamos subiendo hacia el este en busca del valle de Brazato para ganar el collado de Brazato.  
-Aquí tienes una opción interesante: subir al **Bacias (2.754 m)**, un clásico de la zona.
+Las vistas desde la cima son espectaculares con la sierra de tendeñera a lo lejos, los Piniechos, Catieras y Baldarain al sur. 
 
----
+## ¡A bajar se ha dicho!
 
-### Valle del Ara
+Si hemos optado por la bajada por la diagonal desde la cima, tendremos que continuar la arista en descenso para buscar la entrada a la diagonal. En caso de optar por bajar por la normal, solo tendremos que deshacer el terreno recorrido.
 
-Aquí empieza la parte divertida.
+### La diagonal
 
-Después de la subida toca disfrutar del descenso hacia el valle del Ara.  
-Muy esquiable, pero ojo con emocionarse demasiado y bajar hasta el río.
+Si la nieve no está dura, este descenso es menos expuesto de lo que parece, ya que en la parte alta se forma una comba que te lleva hacia el interior. ¡Aun así PRECAUCIÓN!! Una vez descendido el corredor nos encontramos con una pala que ya se deja esquiar de manera más relajada.
 
-En torno a los **2.300 m**, hay que desviarse a la izquierda para ir en media ladera hacia el ibón bajo de Batanes.  
-A partir de ahí, pieles otra vez y subida progresiva hacia el collado de Arratille.
+### Bajada al sur
 
----
+Si la diagonal del tablato no está en condiciones nos tocará descender hacia el sur por una ladera y para aprovechar la esquiada te recomiendo bajar hasta el valle suspendido aunque luego te toque poner focas y hacer unas zetas para volver a ganar el collado, merece la pena. 
 
-### Entrando a Francia
+## La bajada continua 
 
-La bajada por la Gave de Arratille no tiene mucho misterio al principio.
+Seguiremos bajando por el camino de subida, intentando apañar lo mejor posible la zona de bosque y apurando lo que se pueda en la GR11 que normalmente suele dar guerra cuando ya estás cerca del balneario. Solo nos quedará una cerveza en la casa de piedra.
 
-La duda suele estar en el lago de Arratille:  
-👉 ¿se cruza o no se cruza?
-
-Nosotros dudamos bastante… pero al final pasamos por en medio.
-
-Una vez superado, toca ir buscando la mejor línea entre los pinos para aprovechar bien la bajada.
-
----
-
-### Refugio de Wallon
-
-Refugio muy estilo francés:  
-austero, pero con lo necesario.
-
-Si no quieres cargar comida ni saco, mejor asegurarse de que está abierto.
-
----
-
-## Día 2
-
-### Collado de Marcadau
-
-Un consejo claro:  
-👉 no madrugues demasiado.
-
-Si hace frío, la subida al puerto de Marcadau puede estar muy dura a primera hora.  
-Mejor esperar un poco a que transforme.
-
-El ascenso es bastante sencillo, salvo una rampa algo más empinada.  
-Normalmente encontrarás huella hecha.
-
----
-
-### Giro inesperado: hacia Bramatuero
-
-Empiezas bajando hacia el fondo de un barranco.
-
-Cuando salgas de la zona más encajonada, empieza a mirar hacia la izquierda:  
-tendrás que trazar una diagonal hacia el ibón de Bramatuero.
-
-⚠️ Importante:  
-no te bajes hacia Bachimaña.
-
-Vas entrando en un vallecillo que te lleva al collado bajo el Diente de Batanes Norte.
-
----
-
-### Diente de Batanes Norte
-
-La jugada de subir hasta aquí es clara:  
-👉 buena esquiada hasta el balneario.
-
-Desde arriba, bajas hacia el ibón de Labaza, trazando bien la línea y buscando los mejores tramos de nieve para llegar esquiando hasta el coche.
-
----
-
-## 🎥 Vídeo
-
-https://youtu.be/i8OGA0X8pQc
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i8OGA0X8pQc?si=zDY_-NWqPBtZBvIF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
----
-
-## Cierre
-
-Dos días muy completos, con terreno variado y bastante ambiente de alta ruta sin complicarse demasiado.
-
-👉 De las que dejan ganas de repetir… y de alargar.
+https://youtu.be/ju7d58-aba0
 
 * * *
