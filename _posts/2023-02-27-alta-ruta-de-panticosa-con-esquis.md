@@ -1,49 +1,123 @@
 ---
-title: "Alta Ruta de panticosa con esquis"
+layout: post
+title: Alta Ruta de Panticosa con esquís
 date: 2023-02-27
-categories: 
-  - "esqui-travesia"
-coverImage: "Alta-ruta-Panticosa.png"
+categories:
+  - esqui-travesia
+tags:
+  - panticosa
+  - travesia
+  - pirineo
+coverImage: Alta-ruta-Panticosa.png
+excerpt: '"Dos días de travesía desde el Balneario de Panticosa hasta el refugio de Wallon, con buenas esquiadas y ambiente de alta ruta."'
 ---
 
-> Dos días de ruta con esquis desde el balneario de Panticosa. Buenas esquiadas y buenas sensaciones.
 
-![](images/maxresdefault-1024x576.webp)
+> Dos días de ruta con esquís desde el Balneario de Panticosa. Buenas esquiadas y buenas sensaciones.
 
-# Alta ruta de Panticosa con esquis de travesía
+![Alta ruta Panticosa]({{ "/assets/img/maxresdefault-1024x576.webp" | relative_url }})
 
-Una versión de la alta ruta de Panticosa para hacer en dos días durmiendo una noche en el refugio de Wallon que te dejará buen sabor de boca y te hará soñar con las grandes altas rutas alpinas.
+## La idea
 
-## Balneario de Panticosa
+Una versión de la alta ruta de Panticosa para hacer en dos días, durmiendo una noche en el refugio de Wallon.  
+Un recorrido muy agradecido que te deja con ganas de más… y de pensar en cosas más largas tipo Alpes.
 
-El punto de salida es el Balneario, si llegas un viernes por la noche puedes dormir en el refugio de la casa de Piedra. Comenzaremos subiendo hacia el este en busca del valle de Brazato para ganar el collado de Brazato, una opción aquí es subir al Bacias (2.754 m ) es un clasico de la zona del esqui de montaña. 
+---
 
-## Valle del Ara
+## Día 1
 
-Ahora empieza la diversión, después de tanta subida comienza el descenso hacia el valle del Ara, esta parte es muy esquiable, pero hay que andar con ojo para no bajar hasta el mismo río Ara. En la cota aproximada de 2.300 m tendrás que desviarte a la izquierda para en media ladera ir a buscar el ibón bajo de Batanes y ya con las pieles de foca puestas ir subiendo en media ladera hacia el collado de Arratille. 
+### Balneario de Panticosa
 
-## Entrando a Francia
+El punto de salida es el Balneario.  
+Si llegas un viernes por la noche, puedes dormir en el refugio de la Casa de Piedra.
 
-La bajada por la Gave de Arratille no tiene mucho misterio al principio. Una de las dificultades que te encontrarás es si puedes cruzar o no el lago de arratille. Cuando lo hicimos nosotros dudamos bastante en si estaría suficientemente helado, al final pasamos por en medio. Una vez pasado el lago te quedará ir buscando el mejor camino para poder aprovechar la bajada encontrando la mejor bajada entre los pinos.
+Empezamos subiendo hacia el este en busca del valle de Brazato para ganar el collado de Brazato.  
+Aquí tienes una opción interesante: subir al **Bacias (2.754 m)**, un clásico de la zona.
 
-## Refugio de Wallon
+---
 
-Este refugio es muy estilo francés, es bastante austero, pero tiene lo imprescindible. Si no queréis cargar con comida y saco aseguraros que está abierto. 
+### Valle del Ara
 
-## Segundo día. Collado de Marcadau.
+Aquí empieza la parte divertida.
 
-Aquí un consejo, no madrugues, según condiciones, la subida a primera hora al puerto de Marcadau estará muy dura, espera a que se reblandezca un poco.
+Después de la subida toca disfrutar del descenso hacia el valle del Ara.  
+Muy esquiable, pero ojo con emocionarse demasiado y bajar hasta el río.
 
-El puerto de Panticosa o collado de Marcadau es sencillo de ascender, solo tiene un punto con una rampa un poco más empinada, aunque normalmente tendrás la huella hecha.
+En torno a los **2.300 m**, hay que desviarse a la izquierda para ir en media ladera hacia el ibón bajo de Batanes.  
+A partir de ahí, pieles otra vez y subida progresiva hacia el collado de Arratille.
 
-## Giro inesperado. ¡Hacia Bramatuero!
+---
 
-Comienza esquiando hacia el fondo de un barranco con nieve, pero una vez que has pasado la parte más estrecha vete fijando hacia la iquierda pues tendrás que trazar una diagonal para ir hacia el ibon de Bramatuero. No te bajes hacia el ibon de Bachimaña. Iras cogiendo un vallecillo que te llevará al collado debajo del Diente de Batanes Norte.
+### Entrando a Francia
 
-## Diente de Batanes N.
+La bajada por la Gave de Arratille no tiene mucho misterio al principio.
 
-La jugada de subir hasta el Diente de Batanes es tener una buena esquiada hasta el balneario de Panticosa. Bajas hacia el ibón de Labaza  después de trazar una diagonal y vas buscando los tramos en mejores condiciones para llegar esquiando hasta el coche.
+La duda suele estar en el lago de Arratille:  
+👉 ¿se cruza o no se cruza?
+
+Nosotros dudamos bastante… pero al final pasamos por en medio.
+
+Una vez superado, toca ir buscando la mejor línea entre los pinos para aprovechar bien la bajada.
+
+---
+
+### Refugio de Wallon
+
+Refugio muy estilo francés:  
+austero, pero con lo necesario.
+
+Si no quieres cargar comida ni saco, mejor asegurarse de que está abierto.
+
+---
+
+## Día 2
+
+### Collado de Marcadau
+
+Un consejo claro:  
+👉 no madrugues demasiado.
+
+Si hace frío, la subida al puerto de Marcadau puede estar muy dura a primera hora.  
+Mejor esperar un poco a que transforme.
+
+El ascenso es bastante sencillo, salvo una rampa algo más empinada.  
+Normalmente encontrarás huella hecha.
+
+---
+
+### Giro inesperado: hacia Bramatuero
+
+Empiezas bajando hacia el fondo de un barranco.
+
+Cuando salgas de la zona más encajonada, empieza a mirar hacia la izquierda:  
+tendrás que trazar una diagonal hacia el ibón de Bramatuero.
+
+⚠️ Importante:  
+no te bajes hacia Bachimaña.
+
+Vas entrando en un vallecillo que te lleva al collado bajo el Diente de Batanes Norte.
+
+---
+
+### Diente de Batanes Norte
+
+La jugada de subir hasta aquí es clara:  
+👉 buena esquiada hasta el balneario.
+
+Desde arriba, bajas hacia el ibón de Labaza, trazando bien la línea y buscando los mejores tramos de nieve para llegar esquiando hasta el coche.
+
+---
+
+## 🎥 Vídeo
 
 https://youtu.be/i8OGA0X8pQc
+
+---
+
+## Cierre
+
+Dos días muy completos, con terreno variado y bastante ambiente de alta ruta sin complicarse demasiado.
+
+👉 De las que dejan ganas de repetir… y de alargar.
 
 * * *
