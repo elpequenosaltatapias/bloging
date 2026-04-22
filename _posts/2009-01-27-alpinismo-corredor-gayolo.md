@@ -27,6 +27,7 @@ coverImage: "P1152121.jpg"
 
 ![Petretxema](/bloging/assets/img/P1152126-768x1024.jpg)
 
+![Petretxema]({{ "assets/img/P1152126-768x1024.jpg" | relative_url }})
 # Corredor Gayolo. Circo de Rioseta. Candanchú
 
 Aunque el Corredor Gayolo de Candanchú nos dio más de una sorpresa, al final todo valió la pena. Y es que, ¿qué es un poco de nieve y unos zuecos en los crampones comparados con la emoción de hacer alpinismo de iniciación en el Valle del Aragón y el Rioseta?
