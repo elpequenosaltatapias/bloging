@@ -112,6 +112,7 @@ Desde arriba, bajas hacia el ibón de Labaza, trazando bien la línea y buscando
 
 https://youtu.be/i8OGA0X8pQc
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i8OGA0X8pQc?si=zDY_-NWqPBtZBvIF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 ## Cierre
